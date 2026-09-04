@@ -1,0 +1,11 @@
+name = input("Enter your lastname")
+city = input("Enter your second city")
+conact = input("Enter your contact:")
+email = input("Enter your email")
+phone = input("Enter your phone")
+address = input("Enter your address")
+
+print("Name",first_name+""+second_name)
+print("city",city)
+print("conact",conact)
+print("email",email)
